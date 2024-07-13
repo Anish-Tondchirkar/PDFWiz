@@ -16,3 +16,7 @@ PDFWiz is a simple GUI application for managing PDF documents, including feature
 ## Installation
 
 1. Clone the repository
+2. Install dependencies (if any):
+pip install -r requirements.txt
+3. Run the application:
+python src/main.py
