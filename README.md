@@ -15,7 +15,4 @@ PDFWiz is a simple GUI application for managing PDF documents, including feature
 
 ## Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/PDFWiz.git
-   cd PDFWiz
+1. Clone the repository
